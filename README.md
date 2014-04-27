@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-datasciencecoursera  per review repo
+datasciencecoursera  peer review repo
